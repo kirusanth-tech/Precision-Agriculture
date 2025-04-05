@@ -66,7 +66,7 @@ Using **LED indicators, buzzers, and LCD displays**, farmers can make data-drive
 | 19     | 1.6V AA Batteries| External Power Supply (4x AA Batteries) for SG90   |
 
 
-- ## 2.2 Working Principle of the Prototype
+## 2.2 Working Principle of the Prototype
 
 This Efficient & Result-Oriented Smart Agriculture System is designed to revolutionize modern farming through real-time monitoring, intelligent decision-making, and automated responses. The system continuously tracks soil moisture, air quality, humidity, temperature, light conditions, and rainfall to optimize irrigation while ensuring environmental balance. Here’s how it works:
 
