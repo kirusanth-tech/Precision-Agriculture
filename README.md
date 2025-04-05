@@ -41,7 +41,7 @@ Using **LED indicators, buzzers, and LCD displays**, farmers can make data-drive
 - 💦 **Significant Resource Savings**: Potential to save 30,000+ liters of water per acre annually.
 - 🌾 **Increased Crop Yields**: Aims for up to 25% yield increase.
 
-- ## 2.1 Components & Hardware Used
+## 2.1 Components & Hardware Used
 
 | S. No. | Component Code  | Component Name                                     |
 |--------|------------------|----------------------------------------------------|
