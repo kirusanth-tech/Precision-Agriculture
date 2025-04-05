@@ -4,7 +4,7 @@
 
 Agriculture plays a crucial role in sustaining human life, yet traditional farming methods face several inefficiencies. While crucial for life, traditional farming suffers from water mismanagement, unpredictable weather, and poor environmental oversight. Modern technology offers a solution through smart automation.
 
-This project, **"Precision Agriculture: Improved Efficiency & Outcomes,"** utilizes sensors and real-time monitoring to boost crop health, conserve water, and enhance environmental awareness.
+This project, **"Precision Agriculture: Improved Efficiency & Outcomes"** utilizes sensors and real-time monitoring to boost crop health, conserve water, and enhance environmental awareness.
 
 Traditional farming's manual irrigation and guesswork cause water waste, crop stress, and yield loss. Climate change (erratic rainfall, rising temperatures) and pollution (e.g., fertilizer ammonia) worsen this. Farm owners bear the brunt, wasting 30–50% of irrigation water and facing uncertain harvests. This project directly tackles these issues by automating decisions based on real-time environmental data, ensuring crops receive precisely what they need, optimizing resource use and improving outcomes.
 
@@ -17,7 +17,7 @@ Farmers often struggle with over-irrigation, under-irrigation, and lack of timel
 With this real-world problem-solving project, it:
 - Automates irrigation
 - Continuously monitors soil moisture, air quality, temperature, and humidity
-- Provides real-time alerts and status updates
+- Provides real-time alerts and status updates to farm owners.
 
 Using **LED indicators, buzzers, and LCD displays**, farmers can make data-driven decisions to improve efficiency, productivity, and yield.
 
